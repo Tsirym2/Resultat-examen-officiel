@@ -1,0 +1,18 @@
+fieldset {
+    width:80%;
+}
+img {
+    height: 100;
+    width: 500px;
+}
+.tableau-style{
+    border:2px solid black;
+}
+thead{
+background-color: aqua;
+text-align: left;
+
+}
+th{
+    border:1px solid black; 
+}
